@@ -12,7 +12,7 @@
 <div>
   
 <h1>💻 Visualize</h1>
-<p>Visualize está aplicação em https://ulisses97.github.io/Pizzaria-JS/ </p>
+<p>Visualize está aplicação em https://ulisses97.github.io/pokedex/ </p>
 </br>
 
 
